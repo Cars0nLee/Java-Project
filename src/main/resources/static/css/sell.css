@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+	text-align: center;
+}
+
+.tag {
+	margin-left: 400px;
+}
+
+.title {
+	margin-left: 515px;
+}
+
+a {
+	text-decoration: none;
+}
